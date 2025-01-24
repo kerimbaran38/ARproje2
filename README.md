@@ -75,7 +75,3 @@ Bu proje, artırılmış gerçeklik (AR) teknolojisini kullanarak uçak güvenli
 - Kullanıcı etkileşimli dokunmatik kontroller eklenebilir.
 - Animasyonların yanında metin veya sesli talimatlar eklenebilir.
 - Daha detaylı 3D modeller ve görsel efektler ile geliştirilebilir.
-
----
-
-Bu dosyada herhangi bir ekleme veya düzenleme talebiniz varsa lütfen bildirin! 😊
